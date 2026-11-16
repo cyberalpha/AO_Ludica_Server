@@ -1,0 +1,172 @@
+Referencias de los Sonidos .wav
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10  = Flecha para NPCs
+11
+12
+13
+14
+15
+16  = Antídoto Mágico / Toxina / Paralizar / Ataque de Hambre / Terrible hambre de Igôr / Invisibilidad / Inmovilizar / vacio [HECHIZO34] / Desaturdir / Mimetismo / El Ojo del Demiurgo [HECHIZO43]
+17  = Curar Heridas Leves / Llamado a la Naturaleza / Llamado Nigromante / Celeridad / Torpeza / Debilidad / Llamado a Uhkrul / Invocar Elemental de Fuego / Invocar Elemental de Tierra / Implorar Ayuda / Ceguera / Aturdir / Invocación de Ultratumba / Invocar Mascota
+18  = Curar Heridas Graves / Bendición de Sortilego [HECHIZO40]
+19  = Flecha Mágica / Flecha Eléctrica
+20  = Resucitar
+21
+22
+23
+24
+25
+26
+27  = Tormenta de Fuego / Apocalipsis / Ira de Dios
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65  = Flecha Elfica [HECHIZO44]
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110  = Devolver Movilidad
+111  = Proyectil Mágico
+112  = Fuerza
+113  = Descarga Eléctrica
+114  = Dardo Mágico
+115
+116
+117
+118
+119
+120
+165  = Drenar
+1001 = Antídoto mágico
+1002 = Dardo Mágico
+1003 = Curar Heridas Leves  (Duplicado 0017.wav)
+1004 = Toxina
+1005 = Curas Heridas Graves (Duplicado 0017.wav)
+1006 = Flecha Mágica
+1007 = Flecha Elétrica
+1008 = Proyectil Mágico
+1009 = Paralizar
+1010 = Devolver Movilidad
+1011 = Resucitar
+1012 = Ataque de Hambre
+1013 = Terrible Hambre de Igor
+1014 = Invisibilidad
+1015 = Tormenta de Fuego
+1016 = Llamado a la Naturaleza (Duplicado 0017.wav) 
+1017 = Llamado Nigromante  (Duplicado 0017.wav)
+1018 = Celeridad
+1019 = Torpeza
+1020 = Fuerza
+1021 = Debilidad
+1022 = Llamado a Uhkrul (Duplicado 0017.wav)
+1023 = Descarga Eléctrica
+1024 = Inmovilizar
+1025 = Apocalipsis
+1026 = Invocar Elemental de Fuego (Duplicado 0017.wav)
+1027 = Invocar Elemental de Agua (Duplicado 0017.wav)
+1028 = Invocar Elemental de Tierra (Duplicado 0017.wav)
+1029 = Implorar Ayuda (Duplicado 0017.wav)
+1030 = Ceguera
+1031 = Aturdir (Duplicado 0017.wav)
+1032 = Ira de dios
+1033 = Invocacion de Ultratumba (Duplicado 0017.wav)
+1034 = Furia
+1035 = Flecha
+1036 = Tormenta Pretoriana
+1037 = Flecha Cazador Pretoriano
+1038 = Remover Invisibilidad
+1039 = Paralizar NPCs
+1040 = Bendición de Sortilegio (Duplicado 0018.wav)
+1041 = Desaturdir  (Duplicado 0016.wav)
+1042 = Mimetismo  (Duplicado 0016.wav)
+1043 = El Ojo del Demiurgo  (Duplicado 0016.wav)
+1044 = Flecha Élfica (Duplicado 0019.wav)
+1045 = Drenar (NPC Deborador de Almas)
+1046 = Invocar Mascota (Duplicado 0017.wav)
+1047 = Maldición
+ 
+

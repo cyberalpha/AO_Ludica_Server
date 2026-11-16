@@ -1,0 +1,12 @@
+[MAPA86]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 1
+Pk=0
+Name=Montaña
+MusicNum=93
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No

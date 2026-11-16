@@ -1,0 +1,12 @@
+[Mapa139]
+Name=Desierto Sur
+MusicNum=106
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+StartPos=0-0-0
+Terreno=DESIERTO
+Zona=CAMPO
+Restringir=No
+BackUp= 1
+Pk=0

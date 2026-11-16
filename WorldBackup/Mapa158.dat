@@ -1,0 +1,12 @@
+[Mapa158]
+Name=Galapagos
+MusicNum=126
+MagiaSinefecto=1
+InviSinEfecto=0
+ResuSinEfecto=0
+StartPos=0-0-0
+Terreno=DESIERTO
+Zona=CAMPO
+Restringir=No
+BackUp= 1
+Pk=0

@@ -1,0 +1,11 @@
+[MAPA40]
+Name=Mar del Norte Oriental
+MusicNum=25
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+BackUp= 1
+Pk=0
